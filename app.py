@@ -2,6 +2,7 @@
 Aplicación Streamlit — Clasificador de Enfermedades en Plantas
 Pipeline: ResNet152 (extractor de características) + cabeza clasificadora Keras
 Despliegue: Streamlit Cloud / GitHub
+Elaborado por: Orlando Advíncula Zeballos
 """
 
 import cv2
