@@ -24,6 +24,7 @@ st.set_page_config(
 
 st.title("🌿 Clasificador de Enfermedades en Plantas")
 st.markdown("Carga una imagen de hoja para obtener la predicción de enfermedad.")
+st.markdown("<h2>Elaborado por: Orlando Advíncula Zeballos</h2>", unsafe_allow_html=True)
 st.divider()
 
 # ───────────────────────────────────────────────
